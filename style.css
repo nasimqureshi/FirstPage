@@ -1,0 +1,115 @@
+.main {
+    width: 1000px;
+    height: 540px;
+    background-color: #F44336;
+}
+.row1 {
+    width: 1000px;
+    height: 100px;
+    background: #e45f8b ;
+    font-size: 50px;
+    text-align: center;
+}
+/* ////////////////////////////////////////////////////////////////////////// */
+.row2 {
+    width: 1000px;
+    height: 40px;
+    background: #9C2780;
+    color:#ffff;
+    text-align: center;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////// */
+.row2-col1 {
+    width: 200px;
+    height: 40px;
+    background: #673AB7;
+    float: left;
+    font-size: 25px;
+}
+.row2-col2 {
+    width: 200px;
+    height: 40px;
+    background: #3F51B5;
+    float: left;
+    font-size: 25px;
+}
+.row2-col3 {
+    width: 200px;
+    height: 40px;
+    background: #566b0b;
+    float: left;
+    font-size: 25px;
+}
+.row2-col4 {
+    width: 200px;
+    height: 40px;
+    background: #b73a44;
+    float: left;
+    font-size: 25px;
+}
+.row2-col5 {
+    width: 200px;
+    height: 40px;
+    background: #109c8a;
+    float: left;
+    font-size: 25px;
+}
+/* //////////////////////////////////////////////////////////////////////////////////////// */
+
+.row3 {
+    width: 1000px;
+    height: 200px;
+    background-color: #9E9E9E;
+}
+.row3-col1 {
+    width: 250px;
+    height: 200px;
+    background-color: #cee480;
+    float: left;
+}
+.row3-col2 {
+    width: 750px;
+    height: 200px;
+    background-color: #e45f8b;
+    float: left;
+}
+.row3-col1-row1 {
+    width: 250px;
+    height: 40px;
+    background-color: #FFEB3B;
+    float: left;
+    text-align: center;
+}
+.row3-col1-row2 {
+    width: 250px;
+    height: 40px;
+    background-color: #92e282;
+    float: left;
+    text-align: center;
+}
+.row3-col1-row3 {
+    width: 250px;
+    height: 40px;
+    background-color: #908aec;
+    float: left;
+    text-align: center;
+}
+.row3-col1-row4 {
+    width: 250px;
+    height: 40px;
+    background-color: #e599b6;
+    float: left;
+    text-align: center;
+}
+.row3-col1-row5 {
+    width: 250px;
+    height: 40px;
+    background-color: #ecbfbf;
+    float: left;
+    text-align: center;
+} 
+.row4 {
+    width: 1000px;
+    height: 50px;
+    background-color: #070707;
+}
